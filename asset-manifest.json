@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/YouTube-clone-react/static/css/main.1189342b.css",
+    "main.js": "/YouTube-clone-react/static/js/main.b3861004.js",
+    "reactPlayerPreview.js": "/YouTube-clone-react/static/js/reactPlayerPreview.c7472170.chunk.js",
+    "static/media/yt-logo-mobile.png": "/YouTube-clone-react/static/media/yt-logo-mobile.7e67cd801ac3213983ff.png",
+    "static/media/YouTube-Logo-Vector.png": "/YouTube-clone-react/static/media/YouTube-Logo-Vector.99ed58bda1383aecfee6.png",
+    "index.html": "/YouTube-clone-react/index.html",
+    "main.1189342b.css.map": "/YouTube-clone-react/static/css/main.1189342b.css.map",
+    "main.b3861004.js.map": "/YouTube-clone-react/static/js/main.b3861004.js.map",
+    "reactPlayerPreview.c7472170.chunk.js.map": "/YouTube-clone-react/static/js/reactPlayerPreview.c7472170.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.1189342b.css",
+    "static/js/main.b3861004.js"
+  ]
+}
